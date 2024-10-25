@@ -1,0 +1,14 @@
+[
+	{
+		"title": "KaiChain Network",
+		"url": "https://v2explorer.kaichain.net/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/kaichain/assets/refs/heads/main/explorer/network_icon.svg"
+	},
+	{
+		"title": "KaiChain Testnet",
+		"url": "https://testnet-explorer.kaichain.net/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/kaichain/assets/refs/heads/main/explorer/network_icon.svg"
+	}
+]
